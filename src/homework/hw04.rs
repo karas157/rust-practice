@@ -23,6 +23,6 @@ fn print_diamond(size: usize) {
 }
 
 fn main() {
-    let size = 21; // Размер ромба должен быть нечетным
+    let size = 21; 
     print_diamond(size);
 }
